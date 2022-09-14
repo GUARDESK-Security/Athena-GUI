@@ -66,5 +66,5 @@ if __name__ == "__main__":
     print(scan_xss(url))
     print("False = Not vulnerable to XSS")
     print("True = Vulnerable to XSS")
-    time.sleep(50)
+    time.sleep(30)
 window.close()
